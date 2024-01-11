@@ -17,4 +17,5 @@ public class SwaggerConfig {
                 .apis(RequestHandlerSelectors.basePackage("com.styleverse.controller"))
                 .build();
     }
+
 }
